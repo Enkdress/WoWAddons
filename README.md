@@ -27,3 +27,7 @@ cp -r Spoilbook "/Applications/World of Warcraft/_forever_/Interface/AddOns/"
 ```
 
 Each addon's own README (if present) has any addon-specific notes (target client, slash commands, known limitations).
+
+## License
+
+[MIT](LICENSE)
