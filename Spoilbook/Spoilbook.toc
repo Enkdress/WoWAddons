@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Spoilbook
+## Notes: Tracks Uncommon+ loot drops per dungeon/raid run and whether you looted them.
+## Author: Sergio
+## Version: 0.1.0
+## SavedVariables: SpoilbookDB
+
+Core.lua
+UI.lua
